@@ -1,1 +1,3 @@
-VS Tech Update ¬ž¿À!
+<?php
+phpinfo();
+?>
